@@ -61,7 +61,7 @@ Authors
 Contributors
 ------------
 
--  C4A8
+- C4A8
 
 Maintainers
 -----------
